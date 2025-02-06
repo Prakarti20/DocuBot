@@ -13,7 +13,7 @@ import os
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\bhati\\OneDrive\\Desktop\\plenary-vim-441208-m4-90d515d935e7.json"
 
 
-google_api_key = "AIzaSyDAFHy6NS6jPHlDU-fZUkkubMnjK3o_YgM" 
+google_api_key = "ENTER YOUR API KEY HERE" 
 genai.configure(api_key=google_api_key)
 
 
